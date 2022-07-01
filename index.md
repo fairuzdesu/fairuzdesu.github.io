@@ -947,7 +947,7 @@ EN-US;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
  <v:imagedata src="Pelayanan%20Dasar%20mewakili%20aspek%20pelayanan%20dasar%20untuk%20mewujudkan%20bagian%20dari%20kebutuhan%20dasar.files/image001.png"
   o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=431 height=293
-src="Pelayanan%20Dasar%20mewakili%20aspek%20pelayanan%20dasar%20untuk%20mewujudkan%20bagian%20dari%20kebutuhan%20dasar.files/image002.png"
+src="pelayanandasar.png"
 v:shapes="Gambar_x0020_1"><![endif]></span><span style='font-size:11.0pt;
 mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US;mso-bidi-font-weight:
 bold'><o:p></o:p></span></p>
@@ -1044,7 +1044,7 @@ EN-US;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Gambar_x0020_2" o:spid="
  <v:imagedata src="Pelayanan%20Dasar%20mewakili%20aspek%20pelayanan%20dasar%20untuk%20mewujudkan%20bagian%20dari%20kebutuhan%20dasar.files/image003.png"
   o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=437 height=269
-src="Pelayanan%20Dasar%20mewakili%20aspek%20pelayanan%20dasar%20untuk%20mewujudkan%20bagian%20dari%20kebutuhan%20dasar.files/image004.png"
+src="kondisiinfrastruktur.png"
 v:shapes="Gambar_x0020_2"><![endif]></span><span style='font-size:11.0pt;
 mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US;mso-bidi-font-weight:
 bold'><o:p></o:p></span></p>
@@ -1157,7 +1157,7 @@ EN-US;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Gambar_x0020_3" o:spid="
  <v:imagedata src="Pelayanan%20Dasar%20mewakili%20aspek%20pelayanan%20dasar%20untuk%20mewujudkan%20bagian%20dari%20kebutuhan%20dasar.files/image005.png"
   o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=437 height=165
-src="Pelayanan%20Dasar%20mewakili%20aspek%20pelayanan%20dasar%20untuk%20mewujudkan%20bagian%20dari%20kebutuhan%20dasar.files/image006.png"
+src="aksesibilitastransportasi.png"
 v:shapes="Gambar_x0020_3"><![endif]></span><span style='font-size:11.0pt;
 mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US;mso-bidi-font-weight:
 bold'><o:p></o:p></span></p>
@@ -1280,7 +1280,7 @@ lang=EN-AU style='font-size:11.0pt;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  <v:imagedata src="Pelayanan%20Dasar%20mewakili%20aspek%20pelayanan%20dasar%20untuk%20mewujudkan%20bagian%20dari%20kebutuhan%20dasar.files/image007.png"
   o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=453 height=76
-src="Pelayanan%20Dasar%20mewakili%20aspek%20pelayanan%20dasar%20untuk%20mewujudkan%20bagian%20dari%20kebutuhan%20dasar.files/image008.png"
+src="pelayananumum.png"
 v:shapes="Gambar_x0020_4"><![endif]></span><span lang=EN-AU style='font-size:
 11.0pt'><o:p></o:p></span></p>
 
@@ -1351,7 +1351,7 @@ style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Gambar_x0020_5"
  <v:imagedata src="Pelayanan%20Dasar%20mewakili%20aspek%20pelayanan%20dasar%20untuk%20mewujudkan%20bagian%20dari%20kebutuhan%20dasar.files/image009.png"
   o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=437 height=103
-src="Pelayanan%20Dasar%20mewakili%20aspek%20pelayanan%20dasar%20untuk%20mewujudkan%20bagian%20dari%20kebutuhan%20dasar.files/image010.png"
+src="penyelenggaraanpemerintahan.png"
 v:shapes="Gambar_x0020_5"><![endif]></span></p>
 
 </div>
