@@ -82,4 +82,20 @@ Terdapat 5 dimensi pembentuk Indeks Pembangunan Desa, yaitu : Pelayanan Dasar, K
 
 
 ## Evaluasi Hasil Dashboard
+<p>
+Untuk mengukur usability dari dashboard profil pembangunan desa, maka survey evaluasi dashboard pun dilakukan dengan menggunakan kuesioner system usability scale. 
+Pada survey ini terdapat 44 responden, dimana 10 diantaranya adalah pegawai BPS, dan 34 sisanya merupakan mahasiswa Politeknik Statistika STIS
+<br><br>
+	<p align="center"><img src="subjectmatter.png" class="center"></p>
+	
+<br><br>
+Berdasarkan gambar diatas terlihat bahwa secara overall (Mahasiswa STIS + BPS) telah dicapai skor SUS sebesar 83.011. Skor 83.011 > 80 mengindikasikan bahwa dashboard yang telah dibangun itu memiliki usability dengan grade A, yaitu grade tertinggi dari pengkategorian SUS, dengan karakteristik excellent. Dengan demikian dapat disimpulkan bahwa dashboard yang telah dibangun memenuhi aspek usability dengan sangat baik.
+<br><br>
+Kemudian meskipun sama-sama tergolong grade A, dan excellent, terdapat perbedaan penilaian usability berdasarkan kategori responden. Pada responden pegawai BPS diperoleh skor SUS sebesar 80 sedangkan untuk mahasiswa Politeknik Statistika STIS sebesar 83.9. Hal ini berarti bahwa mahasiswa Politeknik Statistika STIS lebih menilai tinggi usability dari dashboard yang telah dirancang. Hal ini mengindikasikan bahwa mahasiswa Politeknik Statistika STIS lebih menilai tinggi usability dari dashboard yang telah dibangun dibandingkan pegawai BPS. Masih kurang jelas apa yang menyebabkan hal ini, studi lebih lanjut harus dilakukan. 
+<br><br>
+<p align="center"><img src="question.png" class="center"></p>
+<br><br>
+Kemudian berdasarkan gambar diatas, dapat dilihat rata-rata skor kontribusi dari tiap pernyataan. Pernyataan ke-10, yaitu “Saya perlu membiasakan diri terlebih dahulu sebelum mengunjungi dashboard” memiliki rata-rata skor kontribusi terendah. Di sisi lain pernyataan ke-5, yaitu “Saya merasa fitur-fitur pada dashboard ini berjalan dengan mestinya”. Hal ini berarti bahwa meskipun dashboard yang dirancang telah bebas dari bug dan sudah sesuai dengan fungsinya, dashboard tersebut masih belum cukup self explanatory dan intuitif sehingga pengguna akan membutuhkan waktu hingga terbiasa dalam menggunakan interface dashboard
 
+
+</p>
