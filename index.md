@@ -50,9 +50,9 @@ Terdapat 5 dimensi pembentuk Indeks Pembangunan Desa, yaitu : Pelayanan Dasar, K
  <br><br>
  <b>Penyelenggaraan Pemerintahan</b> mewakili indikasi kinerja pemerintahan desa merupakan bentuk pelayanan administratif yang diselenggarakan penyelenggara pelayanan bagi warga yang dalam hal ini adalah Pemerintah. Oleh karena itu variabel ini perlu diukur dan berdiri sendiri sebagai sebuah indikator pembangunan desa, karena sifatnya sebagai perangkat terlaksananya tujuan pembangunan desa tersebut. Variabel-variabel penyusunnya meliputi kemandirian seperti: kelengkapan pemerintahan desa, otonomi desa, dan asset/kekayaan desa; serta kualitas sumber daya manusia seperti: kualitas SDM kepala desa dan sekretaris desa.
 
-	<br><br>
-	<p align="center"><img src="penyelenggaraanpemerintahan.png" alt="Variabel dan Indikator Dimensi Penyelenggaraan Pemerintahan" width="437" height="103" class="center"> </p>
-	<br><br>
+<br><br>
+<p align="center"><img src="penyelenggaraanpemerintahan.png" alt="Variabel dan Indikator Dimensi Penyelenggaraan Pemerintahan" width="437" height="103" class="center"> </p>
+<br><br>
 
 </p>
 
