@@ -60,5 +60,26 @@ Terdapat 5 dimensi pembentuk Indeks Pembangunan Desa, yaitu : Pelayanan Dasar, K
 
 
 ### Alur Pengolahan Data
+<ol>
+<li>Memperoleh data pendataan PODES 2018 melalui permintaan data ke BPS</li>
+<li>Menghitung setiap indikator pada setiap dimensi IPD untuk setiap desa</li>
+<li>Agregasi di tingkat kabupaten dilakukan untuk memenuhi kebutuhan data pada usecase monitoring setiap provinsi, tahapan yang dilakukan antara lain : 
+    <ol>
+      <li>Agregasi Indikator</li>
+      <li>Perhitungan setiap dimensi</li>
+      <li>Perhitungan IPD-Kabupaten</li>
+    </ol>
+</li>
+<li>Agregasi di tingkat provinsi dilakukan untuk memenuhi kebutuhan data pada usecase overview Indonesia, tahapan yang dilakukan antara lain :
+<ol>
+  <li>Agregasi indikator</li>
+  <li>Perhitungan setiap dimensi</li>
+  <li>Perhitungan IPD-Provinsi</li>
+</ol>
+</li>
+<li>Melakukan perhitungan IPD di tingkat nasional</li>
+</ol>
+
 
 ## Evaluasi Hasil Dashboard
+
